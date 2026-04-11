@@ -119,10 +119,12 @@ V | lvl 1 | HP 100 | dmg 15 | alive
 ---
 
 # Демонстрация работы (`demo.py`)
-## Сценарий 1 — Создание объектов
+## Сценарий 1 — Создание и вывод объектов
 ```python
 hero = Character("V", 100, 1, 15)
 enemy = Character("Drone", 60, 1, 10)
+
+![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/Снимок%20экрана%202026-04-11%20211241.png)
 ```
 
 ## Сценарий 2 — Вывод объектов
