@@ -56,6 +56,6 @@ lab02/
 
 ![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/Снимок%20экрана%202026-04-10%20213853.png)
 
-`find_by_name(name)` и `remove(item)`
+`find_by_name(name)`  `remove(item)` `sort_by_level()`
 
 ![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/Снимок%20экрана%202026-04-10%20222238.png)
