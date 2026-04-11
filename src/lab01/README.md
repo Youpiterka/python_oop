@@ -122,7 +122,6 @@ V | lvl 1 | HP 100 | dmg 15 | alive
 ## Сценарий 1 — Создание и вывод объектов
 
 ![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/Снимок%20экрана%202026-04-11%20211241.png)
-```
 
 ## Сценарий 2 — сравнение и атака
 
