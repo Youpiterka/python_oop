@@ -131,10 +131,9 @@ V | lvl 1 | HP 100 | dmg 15 | alive
 
 ![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/Снимок%20экрана%202026-04-11%20211349.png)
 
-## Сценарий 4 — Атака
-```python
-hero.attack(enemy)
-```
+## Сценарий 4 — вызов ошибки, мертвый персонаж
+
+![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/Снимок%20экрана%202026-04-11%20211405.png)
 
 ## Сценарий 5 — Setter
 ```python
