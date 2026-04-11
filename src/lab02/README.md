@@ -52,6 +52,6 @@ lab02/
 
 ## Реализация
 
-`add(item)`:
+`add(item)` и `get_all()`:
 
 ![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/Снимок%20экрана%202026-04-10%20213853.png)
