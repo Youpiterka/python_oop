@@ -60,6 +60,6 @@ lab02/
 
 ![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/Снимок%20экрана%202026-04-10%20222238.png)
 
-
+`get_alive()` `__len__()` `__getitem__(index)`
 
 ![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/Снимок%20экрана%202026-04-10%20222250.png)
