@@ -135,27 +135,4 @@ V | lvl 1 | HP 100 | dmg 15 | alive
 
 ![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/Снимок%20экрана%202026-04-11%20211405.png)
 
-## Сценарий 5 — Setter
-```python
-hero.damage = 25
-```
-
-## Сценарий 6 — Атрибут класса
-```python
-Character.max_level
-hero.max_level
-```
-
-## Сценарий 7 — Ошибка создания
-```python
-Character("", -10, 0, -5)
-```
-
-## Сценарий 8 — Смерть персонажа
-```python
-enemy.take_damage(100)
-```
-
----
-
 
