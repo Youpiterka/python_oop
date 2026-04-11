@@ -127,10 +127,9 @@ V | lvl 1 | HP 100 | dmg 15 | alive
 
 ![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/Снимок%20экрана%202026-04-11%20211327.png)
 
-## Сценарий 3 — Сравнение
-```python
-print(hero == enemy)
-```
+## Сценарий 3 — Изменение урона, максимальный уровень через класс и через объект
+
+![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/Снимок%20экрана%202026-04-11%20211349.png)
 
 ## Сценарий 4 — Атака
 ```python
