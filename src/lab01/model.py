@@ -89,6 +89,14 @@ class Character:
         if self._experience >= 100:
             self._experience -= 100
             self.level_up()
+
+    def level_up(self):
+        if self._level < Character.max_level:
+            self._level += 1
+            self._damage += 5
+
+    def calculate_power(self):
+        return self._damage + self._level
             
 
 # состояние проверка максимального уровня
