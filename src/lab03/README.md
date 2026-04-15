@@ -39,4 +39,6 @@
 
 ![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/lab3img/Снимок%20экрана%202026-04-15%20224947.png)
 
-- используется коллекция с фильтрацией по типу объектов
+- использование коллекции с фильтрацией по типу объектов
+
+![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/lab3img/Снимок%20экрана%202026-04-15%20225009.png)
