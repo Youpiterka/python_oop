@@ -31,6 +31,10 @@
 
 В `demo.py`:
 
+# Вывод персонажей и новых методов
+
+1[](<img width="776" height="104" alt="image" src="https://github.com/user-attachments/assets/38c16c81-7e34-4dc9-a220-5e9c78502570" />)
+
 - создаются объекты `Warrior` и `Mage`
 - выводится информация о персонажах
 - вызываются методы `strong_hit()` и `magic_hit()`
