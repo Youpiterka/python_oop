@@ -35,6 +35,9 @@
 
 ![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/lab3img/Снимок%20экрана%202026-04-15%20224920.png)
 
+вызов всех персонажей и 
+
+![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/lab3img/Снимок%20экрана%202026-04-15%20224947.png)
 - создаются объекты `Warrior` и `Mage`
 - выводится информация о персонажах
 - вызываются методы `strong_hit()` и `magic_hit()`
