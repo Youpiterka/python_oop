@@ -1,7 +1,7 @@
 from base import Character
 from interfaces import Printable, Comparable
 
-class Warrior(Character):
+class Warrior(Character, Printable, Comparable):
     def __init__(self, name, health, level, damage, armor, stamina):
         super().__init__(name, health, level, damage)
         self._armor = self.validate_armor(armor)
@@ -41,7 +41,7 @@ class Warrior(Character):
             return 1
         else: return 0    
 
-class Mage(Character):
+class Mage(Character, Printable, Comparable):
     def __init__(self, name, health, level, damage, mana, intellegence):
         super().__init__(name, health, level, damage)
         self._mana = self.validate_mana(mana)
