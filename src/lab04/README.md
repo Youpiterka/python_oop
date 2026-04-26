@@ -61,19 +61,20 @@
 
 ![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/LAB4_IMGG/Снимок%20экрана%202026-04-26%20151756.png)
 
-### Сценарии на 4
-- универсальная функция `print_all(items)`, работающая через интерфейс;
-- проверка через `isinstance(obj, Printable)` и `isinstance(obj, Comparable)`;
-- демонстрация, что оба класса реализуют оба интерфейса.
+### функция print_all
 
-### Сценарии на 5
-1. Фильтрация коллекции по интерфейсу — `collection.get_printable()`.
-2. Полиморфный вывод через интерфейс — `collection.print_all()`, без проверок типа.
-3. Сортировка через интерфейс — `collection.sort_by_power()`.
+![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/LAB4_IMGG/Снимок%20экрана%202026-04-26%20151936.png)
 
-## Запуск
 
-    cd src/lab04
-    python demo.py
+### Проверка через isinstance
 
-Скриншоты работы — в `images/lab04/`.
+![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/LAB4_IMGG/Снимок%20экрана%202026-04-26%20152949.png)
+
+### фильтрация по Printable и вывод всех через Printable
+
+![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/LAB4_IMGG/Снимок%20экрана%202026-04-26%20153415.png)
+
+
+###сортировка по силе через Comparable
+
+![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/LAB4_IMGG/Снимок%20экрана%202026-04-26%20153423.png)
