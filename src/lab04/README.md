@@ -75,6 +75,6 @@
 ![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/LAB4_IMGG/Снимок%20экрана%202026-04-26%20153415.png)
 
 
-###сортировка по силе через Comparable
+### сортировка по силе через Comparable
 
 ![](https://github.com/Youpiterka/python_oop/blob/main/misc/img/LAB4_IMGG/Снимок%20экрана%202026-04-26%20153423.png)
