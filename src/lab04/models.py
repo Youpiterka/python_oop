@@ -29,7 +29,7 @@ class Warrior(Character):
     
 
     def to_string(self):
-        return f"[Воин] {self._name}, уровень {self._level}, броня {self._armor}, сила {self.calculate_power()}"
+        return f"Воин {self._name}, уровень {self._level}, броня {self._armor}, сила {self.calculate_power()}"
     
 
     def compare_to(self, other):
@@ -69,7 +69,7 @@ class Mage(Character):
     
 
     def to_string(self):
-        return f"[Маг] {self._name}, уровень {self._level}, мана {self._mana}, сила {self.calculate_power()}"
+        return f"Маг {self._name}, уровень {self._level}, мана {self._mana}, сила {self.calculate_power()}"
     
 
     def compare_to(self, other):
