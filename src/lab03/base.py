@@ -98,8 +98,12 @@ class Character:
     def calculate_power(self) -> int:
         return self._damage + self._level
 
-class Displayable(Protocol):
-    def display(self) -> str: ...
+    def calculate_power(self) -> int:
+        return self._damage + self._level
 
-class Scorable(Protocol):
-    def score(self) -> float: ...
+    # методы для протоколов из ЛР-6
+    def display(self) -> str:
+        return f"Character {self._name} (lvl {self._level})"
+
+    def score(self) -> float:
+        return float(self.calculate_power())
