@@ -97,3 +97,9 @@ class Character:
 
     def calculate_power(self) -> int:
         return self._damage + self._level
+
+class Displayable(Protocol):
+    def display(self) -> str: ...
+
+class Scorable(Protocol):
+    def score(self) -> float: ...
